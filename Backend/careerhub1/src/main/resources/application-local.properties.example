@@ -1,0 +1,9 @@
+DB_URL=jdbc:mysql://localhost:3306/carrerhub?useSSL=false&serverTimezone=Asia/Kolkata&allowPublicKeyRetrieval=true
+DB_USERNAME=root
+DB_PASSWORD=root
+ADMIN_GMAIL=admin@gmail.com
+ADMIN_PASSWORD=change-me
+JWT_SECRET=put-a-long-random-string-of-32-or-more-characters
+MAIL_HOST=smtp.gmail.com
+MAIL_USERNAME=your-gmail@gmail.com
+MAIL_PASSWORD=your-gmail-app-password
